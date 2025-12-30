@@ -1,0 +1,63 @@
+[
+
+  {
+    "Summary":"TC-0012: Addition of 34 and 232",
+    "Name":"Addition: 34 + 232",
+    "Issue Type":"Test",
+    "Priority":"High",
+    "Labels":"calculator,functional,regression,automation-candidate",
+    "Components":"CalculatorApp",
+    "Test Steps":"1. Enter 34\n2. Press +\n3. Enter 232\n4. Press =",
+    "Expected Result":"Display shows 266",
+    "Body":"Test Name: Addition: 34 + 232\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 34\n2. Press +\n3. Enter 232\n4. Press =\n\nExpected Result:\n- Display shows 266",
+    "Description":"Test Name: Addition: 34 + 232\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 34\n2. Press +\n3. Enter 232\n4. Press =\n\nExpected Result:\n- Display shows 266"
+  },
+  {
+    "Summary":"TC-0013: Addition of -946 and 149",
+    "Name":"Addition: -946 + 149",
+    "Issue Type":"Test",
+    "Priority":"High",
+    "Labels":"calculator,functional,regression,automation-candidate",
+    "Components":"CalculatorApp",
+    "Test Steps":"1. Enter -946\n2. Press +\n3. Enter 149\n4. Press =",
+    "Expected Result":"Display shows -797",
+    "Body":"Test Name: Addition: -946 + 149\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter -946\n2. Press +\n3. Enter 149\n4. Press =\n\nExpected Result:\n- Display shows -797",
+    "Description":"Test Name: Addition: -946 + 149\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter -946\n2. Press +\n3. Enter 149\n4. Press =\n\nExpected Result:\n- Display shows -797"
+  },
+  {
+    "Summary":"TC-0014: Addition of -593 and 466",
+    "Name":"Addition: -593 + 466",
+    "Issue Type":"Test",
+    "Priority":"High",
+    "Labels":"calculator,functional,regression,automation-candidate",
+    "Components":"CalculatorApp",
+    "Test Steps":"1. Enter -593\n2. Press +\n3. Enter 466\n4. Press =",
+    "Expected Result":"Display shows -127",
+    "Body":"Test Name: Addition: -593 + 466\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter -593\n2. Press +\n3. Enter 466\n4. Press =\n\nExpected Result:\n- Display shows -127",
+    "Description":"Test Name: Addition: -593 + 466\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter -593\n2. Press +\n3. Enter 466\n4. Press =\n\nExpected Result:\n- Display shows -127"
+  },
+  {
+    "Summary":"TC-0015: Addition of 330 and 436",
+    "Name":"Addition: 330 + 436",
+    "Issue Type":"Test",
+    "Priority":"High",
+    "Labels":"calculator,functional,regression,automation-candidate",
+    "Components":"CalculatorApp",
+    "Test Steps":"1. Enter 330\n2. Press +\n3. Enter 436\n4. Press =",
+    "Expected Result":"Display shows 766",
+    "Body":"Test Name: Addition: 330 + 436\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 330\n2. Press +\n3. Enter 436\n4. Press =\n\nExpected Result:\n- Display shows 766",
+    "Description":"Test Name: Addition: 330 + 436\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 330\n2. Press +\n3. Enter 436\n4. Press =\n\nExpected Result:\n- Display shows 766"
+  },
+  {
+    "Summary":"TC-0016: Addition of 116 and -141",
+    "Name":"Addition: 116 + -141",
+    "Issue Type":"Test",
+    "Priority":"High",
+    "Labels":"calculator,functional,regression,automation-candidate",
+    "Components":"CalculatorApp",
+    "Test Steps":"1. Enter 116\n2. Press +\n3. Enter -141\n4. Press =",
+    "Expected Result":"Display shows -25",
+    "Body":"Test Name: Addition: 116 + -141\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 116\n2. Press +\n3. Enter -141\n4. Press =\n\nExpected Result:\n- Display shows -25",
+    "Description":"Test Name: Addition: 116 + -141\n\nPreconditions:\n- Calculator is launched\n- Standard mode is selected\n- Memory is cleared\n\nTest Steps:\n1. Enter 116\n2. Press +\n3. Enter -141\n4. Press =\n\nExpected Result:\n- Display shows -25"
+  }
+]
